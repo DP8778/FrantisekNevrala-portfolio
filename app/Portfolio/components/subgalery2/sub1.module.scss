@@ -1,0 +1,43 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8rem 1.5rem;
+  background-color: rgb(243, 243, 243);
+}
+
+.title {
+  font-size: 2.5rem;
+  text-align: start;
+  
+  font-weight: 500;
+  letter-spacing: -0.5px;
+  font-family: 'condensed-j2';
+}
+.subtitle{
+    font-family: 'condensed-j2';
+    margin-bottom: 2rem;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.card {
+  width: 100%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  max-height: 900px;  /* ← nastavíš si sám */
+  object-fit: contain;  /* aby se obrázek nezdeformoval */
+  border-radius: 12px;
+}
+
+.caption {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 0.75rem;
+  color: #777;
+}
