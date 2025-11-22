@@ -4,7 +4,7 @@ import styles from "./sub1.module.scss"
 
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import Subgalery1 from "../components/subgalery10"
+import Subgalery1 from "../components/subgalery2"
 
 const Page = () => {
   return (

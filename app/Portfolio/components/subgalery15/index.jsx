@@ -4,8 +4,8 @@ import styles from "./sub1.module.scss";
 
 const images = [
   { src: "/folder15/1.png", alt: "" },
-  { src: "/folder15/2.png", alt: "" },
-  { src: "/folder15/3.png", alt: "" },
+  { src: "/folder15/2.PNG", alt: "" },
+  { src: "/folder15/3.PNG", alt: "" },
   { src: "/folder15/4.png", alt: "" },
 
   

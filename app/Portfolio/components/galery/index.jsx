@@ -18,7 +18,7 @@ const imageData = [
   { src: "/folder2/1.PNG", caption: "Figure & Tribe park", link: "/Portfolio/sub10" },
   { src: "/folder13/1.JPEG", caption: "Nike SB series", link: "/Portfolio/sub13" },
   { src: "/folder14/1.png", caption: "Brio x Fluential", link: "/Portfolio/sub14" },
-  { src: "/folder15/2.png", caption: "Typeface", link: "/Portfolio/sub15" },
+  { src: "/folder15/2.PNG", caption: "Typeface", link: "/Portfolio/sub15" },
   { src: "/folder16/1.jpg", caption: "Digital Artworks", link: "/Portfolio/sub16" },
   { src: "/folder17/1.png", caption: "Character design", link: "/Portfolio/sub17" },
   { src: "/folder18/5.png", caption: "Presentation for an app for tasks -- Dear Diary", link: "/Portfolio/sub18" },
