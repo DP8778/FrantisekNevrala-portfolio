@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import Image from "next/image";
 import styles from "./Navbar.module.scss";
@@ -27,7 +28,7 @@ export default function Navbar() {
 
           {/* ⬆ Social ikony */}
           <div className={styles.social}>
-            <a href="https://instagram.com" target="_blank">
+            <a href="https://www.instagram.com/fanatix.co/" target="_blank">
               <Image
                 src="/instagram-logo.svg"
                 alt="Instagram"
@@ -36,7 +37,7 @@ export default function Navbar() {
               />
             </a>
 
-            <a href="https://behance.net" target="_blank">
+            <a href="https://www.behance.net/frantieknevala1#" target="_blank">
               <Image
                 src="/behance-circle.svg"
                 alt="Behance"
@@ -48,9 +49,7 @@ export default function Navbar() {
 
           {/* ⬇ Odkazy */}
           <ul className={`${styles.links} ${open ? styles.open : ""}`}>
-            <li><a href="#home">Domů</a></li>
-            <li><a href="#about">O nás</a></li>
-            <li><a href="#contact">Kontakt</a></li>
+            <li><a href="/Portfolio/kontakt">Kontakt</a></li>
           </ul>
 
         </div>
