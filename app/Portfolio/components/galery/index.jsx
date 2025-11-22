@@ -15,7 +15,7 @@ const imageData = [
   { src: "/folder9/1.png", caption: "Jaguar CX-95 Illustration", link: "/Portfolio/sub9" },
   { src: "/folder11/1.png", caption: "Community Gardens x Brooks", link: "/Portfolio/sub11" },
   { src: "/folder12/1.png", caption: "Book covers and Illustrations", link: "/Portfolio/sub12" },
-  { src: "/folder2/1.png", caption: "Figure & Tribe park", link: "/Portfolio/sub10" },
+  { src: "/folder2/1.PNG", caption: "Figure & Tribe park", link: "/Portfolio/sub10" },
   { src: "/folder13/1.JPEG", caption: "Nike SB series", link: "/Portfolio/sub13" },
   { src: "/folder14/1.png", caption: "Brio x Fluential", link: "/Portfolio/sub14" },
   { src: "/folder15/2.png", caption: "Typeface", link: "/Portfolio/sub15" },

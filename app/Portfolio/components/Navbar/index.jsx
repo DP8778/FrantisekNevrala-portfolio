@@ -14,7 +14,7 @@ export default function Navbar() {
         <div className={styles.logo}>
           <a href="/">
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               alt="Logo"
               width={50}
               height={40}
