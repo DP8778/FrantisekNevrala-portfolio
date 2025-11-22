@@ -20,7 +20,7 @@ const images = [
 export default function TubeGallery() {
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Typeface</h1>
+      <h1 className={styles.title}>Typeface // Logo for a graphic design studio</h1>
       <p className={styles.subtitle}>year: 2025</p>
 
       <div className={styles.grid}>

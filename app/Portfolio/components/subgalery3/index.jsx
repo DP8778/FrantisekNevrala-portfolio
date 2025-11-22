@@ -3,6 +3,7 @@ import Image from "next/image";
 import styles from "./sub1.module.scss";
 
 const images = [
+  { src: "/folder3/7.png", alt: "" },
   { src: "/folder3/1.png", alt: "" },
   { src: "/folder3/2.JPEG", alt: "" },
   { src: "/folder3/3.png", alt: "" },
@@ -15,7 +16,7 @@ export default function TubeGallery() {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Skullcandy</h1>
-      <p className={styles.subtitle}>year: 2024</p>
+      <p className={styles.subtitle}>year: 2021</p>
 
       <div className={styles.grid}>
         {images.map((img, i) => (

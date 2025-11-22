@@ -14,8 +14,8 @@ const images = [
 export default function TubeGallery() {
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Jaguar CX-95 Illustration</h1>
-      <p className={styles.subtitle}>year: 2024</p>
+      <h1 className={styles.title}>Jaguar CX-75 Illustration</h1>
+      <p className={styles.subtitle}>year: 2023</p>
 
       <div className={styles.grid}>
         {images.map((img, i) => (

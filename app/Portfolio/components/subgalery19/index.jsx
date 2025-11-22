@@ -26,7 +26,7 @@ export default function TubeGallery() {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Vennie surfboards</h1>
-      <p className={styles.subtitle}>year: 2018</p>
+      <p className={styles.subtitle}>year: 2015</p>
 
       <div className={styles.grid}>
         {images.map((img, i) => (
