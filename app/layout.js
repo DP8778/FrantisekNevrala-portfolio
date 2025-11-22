@@ -2,7 +2,7 @@ import "./globals.css";
 
 
 export const metadata = {
-  title: "David Pešek - Portfolio",
+  title: "František Nevřala - Portfolio",
   description: "",
 };
 
