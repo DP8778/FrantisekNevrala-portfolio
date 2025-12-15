@@ -8,7 +8,7 @@ const images = [
   { src: "/folder3/2.JPEG", alt: "" },
   { src: "/folder3/3.png", alt: "" },
   { src: "/folder3/4.png", alt: "" },
-  { src: "/folder3/5.png", alt: "" },
+  { src: "/folder3/8.png", alt: "" },
   { src: "/folder3/6.png", alt: "" },
 ];
 

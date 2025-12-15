@@ -10,6 +10,7 @@ const imageData = [
   { src: "/folder4/1.png", caption: "Fluential tee design", link: "/Portfolio/sub4" },
   { src: "/folder5/1.PNG", caption: "LRG design contest // Dead Serious Hoodie", link: "/Portfolio/sub5" },
   { src: "/folder7/1.png", caption: "Community Garden Hats", link: "/Portfolio/sub7" },
+  { src: "/folder20/1.png", caption: "Carhartt series", link: "/Portfolio/sub20" },
   { src: "/folder6/1.png", caption: "Oasis poster // Definitely Maybe", link: "/Portfolio/sub6" },
   { src: "/folder8/1.png", caption: "Brand posters", link: "/Portfolio/sub8" },
   { src: "/folder9/1.png", caption: "Jaguar CX-75 Illustration", link: "/Portfolio/sub9" },
